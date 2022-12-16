@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
  
 #define NICK "Bururiiich"
 #define NICK_LENGTH 10
